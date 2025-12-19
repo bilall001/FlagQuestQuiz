@@ -32,8 +32,8 @@ This app helps users test and improve their knowledge of **world flags** through
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="/screenshots/screenshot-1.png" width="250" />
-  <img src="/screenshots/screenshot-2.png" width="250" />
+  <img src="/screenshots/screenshot-1.png" width="400" />
+  <img src="/screenshots/screenshot-2.png" width="400" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ This app helps users test and improve their knowledge of **world flags** through
 ## Demo 
 
 <p align="center">
-    <img src="/screenshots/screenshot.png" width="300"/>
+    <img src="/screenshots/screenshot.png" width="400"/>
 </p>
 
 ---
